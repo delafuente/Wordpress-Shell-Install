@@ -8,7 +8,7 @@ http://www.olivermgrech.com/wordpress-command-line-installer/
 Usage
 =====
 
-1) First, you may change some variables inside the script, that is intended to be used within the same server installation for many Wordpress sites.
+1. First, you may change some variables inside the script, that is intended to be used within the same server installation for many Wordpress sites.
 
 1.1 Change the value of mysqlhost if you want something different than localhost
 1.2 Change the value of dbAdMinUser if you want something different than root
